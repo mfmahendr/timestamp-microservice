@@ -1,0 +1,23 @@
+{
+  "name": "timestamp-microservice-api-project",
+  "version": "0.0.1",
+  "description": "An FCC Backend Challenge: Timestamp Microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.12.4",
+    "moment": "^2.29.4",
+    "nodemon": "^2.0.20"
+  },
+  "author": "freeCodeCamp.org",
+  "keywords": [
+    "node",
+    "express",
+    "freeCodeCamp-challenge"
+  ],
+  "license": "MIT"
+}
